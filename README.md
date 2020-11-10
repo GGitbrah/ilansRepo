@@ -1,7 +1,6 @@
 # ilansRepo
 
-Hello There my Little Friend
+Hi Everyone,
 
-A young Jedi named Darth Vader, who was a pupil of mine until he turned 
-to evil, helped the Empire hunt down and destroy the Jedi Knights. He betrayed and murdered your father. 
-Now the Jedi are all but extinct. Vader was seduced by the dark side of the Force.
+The quick brown fox jumps over the lazy dog" is an English-language pangram—a sentence that contains all of the letters of the English alphabet. Owing to its brevity and coherence, it has become widely known. The phrase is commonly used for touch-typing practice, testing typewriters and computer keyboards, displaying examples of fonts, and other applications involving text where the use of all letters in the alphabet is desired. 
+
